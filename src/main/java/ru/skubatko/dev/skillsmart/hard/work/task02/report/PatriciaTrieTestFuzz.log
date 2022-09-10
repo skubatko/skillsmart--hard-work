@@ -1,0 +1,252 @@
+Saving new input (at run 1): input #0 of size 1332; reason = +count +cov
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000000 random +count +cov
+
+# Cycle 1 completed.
+Here is a list of favored inputs:
+Input 0 is responsible for 1 branches
+Total 1 branches covered
+
+
+
+
+
+# Cycle 2 completed.
+Here is a list of favored inputs:
+Input 0 is responsible for 1 branches
+Total 1 branches covered
+
+
+
+
+
+# Cycle 3 completed.
+Here is a list of favored inputs:
+Input 0 is responsible for 1 branches
+Total 1 branches covered
+
+
+
+
+
+# Cycle 4 completed.
+Here is a list of favored inputs:
+Input 0 is responsible for 1 branches
+Total 1 branches covered
+
+
+
+
+
+# Cycle 5 completed.
+Here is a list of favored inputs:
+Input 0 is responsible for 1 branches
+Total 1 branches covered
+
+
+
+
+
+# Cycle 6 completed.
+Here is a list of favored inputs:
+Input 0 is responsible for 1 branches
+Total 1 branches covered
+
+
+
+
+
+# Cycle 7 completed.
+Here is a list of favored inputs:
+Input 0 is responsible for 1 branches
+Total 1 branches covered
+
+
+
+
+Saving new input (at run 7496): input #1 of size 1000; reason = +count +cov +valid
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000001 src:000000,havoc:21 +count +cov +valid
+Found crash: class java.lang.AssertionError - 
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/failures/id_000000 src:000001,havoc:16 +crash
+Saving new input (at run 7499): input #2 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000002 src:000001,havoc:6 +count
+Saving new input (at run 7504): input #3 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000003 src:000001,havoc:3 +count
+Saving new input (at run 7508): input #4 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000004 src:000001,havoc:1 +count
+Saving new input (at run 7515): input #5 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000005 src:000001,havoc:2 +count
+Saving new input (at run 7517): input #6 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000006 src:000001,havoc:6 +count
+Saving new input (at run 7523): input #7 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000007 src:000001,havoc:2 +count
+Saving new input (at run 7524): input #8 of size 1000; reason = +count +cov +valid
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000008 src:000001,havoc:16 +count +cov +valid
+Saving new input (at run 7528): input #9 of size 1000; reason = +count +cov +valid
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000009 src:000001,havoc:8 +count +cov +valid
+Saving new input (at run 7529): input #10 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000010 src:000001,havoc:4 +count
+Saving new input (at run 7537): input #11 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000011 src:000001,havoc:6 +count
+Saving new input (at run 7561): input #12 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000012 src:000001,havoc:9 +count
+Saving new input (at run 7565): input #13 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000013 src:000001,havoc:6 +count
+Saving new input (at run 7568): input #14 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000014 src:000001,havoc:6 +count
+Saving new input (at run 7588): input #15 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000015 src:000001,havoc:5 +count
+Saving new input (at run 7647): input #16 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000016 src:000001,havoc:17 +count
+Saving new input (at run 7945): input #17 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000017 src:000001,havoc:12 +count
+Saving new input (at run 8167): input #18 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000018 src:000001,havoc:19 +count
+Saving new input (at run 8579): input #19 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000019 src:000005,havoc:2 +count
+Saving new input (at run 8663): input #20 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000020 src:000006,havoc:4 +count
+Saving new input (at run 8835): input #21 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000021 src:000008,havoc:19 +count
+Saving new input (at run 9021): input #22 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000022 src:000008,havoc:5 +count
+Saving new input (at run 9088): input #23 of size 1000; reason = +count +cov +valid
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000023 src:000008,havoc:3 +count +cov +valid
+Saving new input (at run 9224): input #24 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000024 src:000008,havoc:26 +count
+Saving new input (at run 9753): input #25 of size 1000; reason = +count +cov +valid
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000025 src:000009,havoc:6 +count +cov +valid
+Saving new input (at run 10625): input #26 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000026 src:000012,havoc:5 +count
+Saving new input (at run 10698): input #27 of size 988; reason = +count +cov +valid
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000027 src:000013,havoc:12 +count +cov +valid
+Saving new input (at run 10876): input #28 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000028 src:000018,havoc:3 +count
+Saving new input (at run 11070): input #29 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000029 src:000022,havoc:1 +count
+Saving new input (at run 11642): input #30 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000030 src:000023,havoc:13 +count
+Saving new input (at run 11973): input #31 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000031 src:000025,havoc:3 +count
+Saving new input (at run 11980): input #32 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000032 src:000025,havoc:9 +count
+Saving new input (at run 12780): input #33 of size 1000; reason = +count +cov +valid
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000033 src:000025,havoc:7 +count +cov +valid
+Saving new input (at run 13097): input #34 of size 988; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000034 src:000027,havoc:6 +count
+Saving new input (at run 13335): input #35 of size 988; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000035 src:000027,havoc:28 +count
+Saving new input (at run 14436): input #36 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000036 src:000033,havoc:8 +count
+Saving new input (at run 15159): input #37 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000037 src:000036,havoc:3 +count
+Saving new input (at run 15198): input #38 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000038 src:000037,havoc:3 +count
+
+# Cycle 8 completed.
+Here is a list of favored inputs:
+Input 1 is responsible for 101 branches
+Input 8 is responsible for 2 branches
+Input 9 is responsible for 3 branches
+Input 23 is responsible for 1 branches
+Input 25 is responsible for 13 branches
+Input 27 is responsible for 2 branches
+Input 33 is responsible for 1 branches
+Total 123 branches covered
+
+
+
+
+Saving new input (at run 17146): input #39 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000039 src:000008,havoc:16 +count
+Saving new input (at run 21329): input #40 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000040 src:000028,havoc:1 +count
+Saving new input (at run 21337): input #41 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000041 src:000028,havoc:9 +count
+Saving new input (at run 21590): input #42 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000042 src:000033,havoc:20 +count
+Saving new input (at run 21762): input #43 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000043 src:000033,havoc:18 +count
+Saving new input (at run 21962): input #44 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000044 src:000033,havoc:34 +count
+Saving new input (at run 22920): input #45 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000045 src:000043,havoc:4 +count
+
+# Cycle 9 completed.
+Here is a list of favored inputs:
+Input 1 is responsible for 101 branches
+Input 8 is responsible for 2 branches
+Input 9 is responsible for 3 branches
+Input 23 is responsible for 1 branches
+Input 25 is responsible for 13 branches
+Input 27 is responsible for 2 branches
+Input 33 is responsible for 1 branches
+Total 123 branches covered
+
+
+
+
+Saving new input (at run 28145): input #46 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000046 src:000026,havoc:32 +count
+Saving new input (at run 30844): input #47 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000047 src:000046,havoc:6 +count
+
+# Cycle 10 completed.
+Here is a list of favored inputs:
+Input 1 is responsible for 101 branches
+Input 8 is responsible for 2 branches
+Input 9 is responsible for 3 branches
+Input 23 is responsible for 1 branches
+Input 25 is responsible for 13 branches
+Input 27 is responsible for 2 branches
+Input 33 is responsible for 1 branches
+Total 123 branches covered
+
+
+
+
+Saving new input (at run 35716): input #48 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000048 src:000025,havoc:9 +count
+Saving new input (at run 36218): input #49 of size 656; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000049 src:000027,havoc:18 +count
+Saving new input (at run 38635): input #50 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000050 src:000044,havoc:8 +count
+Saving new input (at run 38655): input #51 of size 1000; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000051 src:000045,havoc:39 +count
+Saving new input (at run 38832): input #52 of size 656; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000052 src:000049,havoc:3 +count
+
+# Cycle 11 completed.
+Here is a list of favored inputs:
+Input 1 is responsible for 101 branches
+Input 8 is responsible for 2 branches
+Input 9 is responsible for 3 branches
+Input 23 is responsible for 1 branches
+Input 25 is responsible for 13 branches
+Input 27 is responsible for 2 branches
+Input 33 is responsible for 1 branches
+Total 123 branches covered
+
+
+
+
+Saving new input (at run 46952): input #53 of size 656; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000053 src:000049,havoc:11 +count
+Saving new input (at run 47018): input #54 of size 948; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000054 src:000051,havoc:10 +count
+
+# Cycle 12 completed.
+Here is a list of favored inputs:
+Input 1 is responsible for 101 branches
+Input 8 is responsible for 2 branches
+Input 9 is responsible for 3 branches
+Input 23 is responsible for 1 branches
+Input 25 is responsible for 13 branches
+Input 27 is responsible for 2 branches
+Input 33 is responsible for 1 branches
+Total 123 branches covered
+
+
+
+
+Saving new input (at run 50846): input #55 of size 908; reason = +count
+Saved - /Users/skubatko/projects/edu/skillsmart/skillsmart--hard-work/src/main/java/ru/skubatko/dev/skillsmart/hard/work/task02/target/fuzz-results/ru.skubatko.dev.skillsmart.PatriciaTrieTest/testMap2Trie/corpus/id_000055 src:000023,havoc:9 +count
