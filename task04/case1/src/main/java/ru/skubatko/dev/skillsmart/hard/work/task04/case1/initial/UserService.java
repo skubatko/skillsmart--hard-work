@@ -1,12 +1,17 @@
 package ru.skubatko.dev.skillsmart.hard.work.task04.case1.initial;
 
-import ru.skubatko.dev.skillsmart.hard.work.task01.case2.dependency.MessageService;
+import ru.skubatko.dev.skillsmart.hard.work.task04.case1.initial.domain.ApplicationEntity;
+import ru.skubatko.dev.skillsmart.hard.work.task04.case1.initial.domain.UserDetailsEntity;
+import ru.skubatko.dev.skillsmart.hard.work.task04.case1.initial.dto.UserDetailsDTO;
+import ru.skubatko.dev.skillsmart.hard.work.task04.case1.initial.enums.Errors;
+import ru.skubatko.dev.skillsmart.hard.work.task04.case1.initial.exceptions.AppBadRequestException;
+import ru.skubatko.dev.skillsmart.hard.work.task04.case1.initial.exceptions.AppNotFoundException;
+import ru.skubatko.dev.skillsmart.hard.work.task04.case1.initial.mappers.UserMapper;
+import ru.skubatko.dev.skillsmart.hard.work.task04.case1.initial.repository.ApplicationRepository;
+import ru.skubatko.dev.skillsmart.hard.work.task04.case1.initial.repository.UserRepository;
+import ru.skubatko.dev.skillsmart.hard.work.task04.case1.initial.service.MessageService;
 
 import lombok.RequiredArgsConstructor;
-import ru.vtb.msa.alpp.comn.view.entity.ApplicationEntity;
-import ru.vtb.msa.alpp.comn.view.exceptions.AppBadRequestException;
-import ru.vtb.msa.alpp.comn.view.exceptions.AppNotFoundException;
-import ru.vtb.msa.alpp.comn.view.exceptions.Errors;
 
 import java.util.ArrayList;
 import java.util.List;

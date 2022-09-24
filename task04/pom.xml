@@ -14,5 +14,6 @@
 
     <modules>
         <module>case1</module>
+        <module>case2</module>
     </modules>
 </project>
