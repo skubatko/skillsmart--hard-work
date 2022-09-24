@@ -1,7 +1,0 @@
-pluginManagement {
-    plugins {
-        id 'io.spring.dependency-management' version "${dependencyManagementVersion}"
-    }
-}
-
-rootProject.name = 'skillsmart--hard-work'
