@@ -39,3 +39,4 @@
 ## Решение
 
 - [case1 report](case1/report.md)
+- [case2 report](case2/report.md)
