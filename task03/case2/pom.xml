@@ -5,6 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
+        <groupId>ru.skubatko.dev.skillsmart.hard.work</groupId>
         <artifactId>task03</artifactId>
         <version>${revision}</version>
     </parent>
