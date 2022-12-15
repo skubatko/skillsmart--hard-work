@@ -30,6 +30,7 @@
         <module>task12</module>
         <module>task13</module>
         <module>task15</module>
+        <module>task16</module>
     </modules>
 
     <properties>
