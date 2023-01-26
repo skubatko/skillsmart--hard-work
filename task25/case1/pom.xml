@@ -6,7 +6,7 @@
 
     <parent>
         <groupId>ru.skubatko.dev.skillsmart.hard.work</groupId>
-        <artifactId>task20</artifactId>
+        <artifactId>task25</artifactId>
         <version>${revision}</version>
     </parent>
 
