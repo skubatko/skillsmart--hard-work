@@ -37,6 +37,7 @@
         <module>task27</module>
         <module>task29</module>
         <module>task30</module>
+        <module>task32</module>
     </modules>
 
     <properties>
