@@ -42,6 +42,7 @@
         <module>task35</module>
         <module>task42</module>
         <module>task43</module>
+        <module>task46</module>
     </modules>
 
     <properties>
