@@ -43,6 +43,7 @@
         <module>task42</module>
         <module>task43</module>
         <module>task46</module>
+        <module>task54</module>
     </modules>
 
     <properties>
