@@ -44,6 +44,7 @@
         <module>task43</module>
         <module>task46</module>
         <module>task54</module>
+        <module>task55</module>
     </modules>
 
     <properties>
